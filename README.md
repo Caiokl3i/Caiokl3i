@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Caio Victor
-
-**`Dev em treinamento`**
+# 👩🏻‍💻 Caio
 
 Tenho 19 anos e sou natural de Três Lagoas - MS. Concluí o ensino médio no IFMS, junto com o curso técnico em Informática integrado. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no mesmo instituto, no campus Três Lagoas.
 
