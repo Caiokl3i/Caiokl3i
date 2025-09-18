@@ -60,20 +60,8 @@ Estou em busca de me tornar desenvolvedor fullstack, explorando diferentes área
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Caiokl3i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![](https://github-readme-stats.vercel.app/api?username=caiokl3i&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiokl3i&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiokl3i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
